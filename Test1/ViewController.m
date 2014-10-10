@@ -17,7 +17,7 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-    NSLog(@"date=test %@",[NSDate date]);
+    NSLog(@"date=test12345 %@",[NSDate date]);
 	// Do any additional setup after loading the view, typically from a nib.
     
     //hello
