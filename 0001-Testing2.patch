@@ -1,0 +1,25 @@
+From 6ef3a8fe61dba5c5666102385febd8e41535a496 Mon Sep 17 00:00:00 2001
+From: gypsa89 <stpl@STPLs-Mac-mini-3.local>
+Date: Sat, 11 Oct 2014 12:27:37 +0530
+Subject: [PATCH] Testing2
+
+---
+ Test1/ViewController.m | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/Test1/ViewController.m b/Test1/ViewController.m
+index 8a3f3fb06e3d4b237074b7ca49b72758e84fda7d..aa0bd7d 100644
+--- a/Test1/ViewController.m
++++ b/Test1/ViewController.m
+@@ -18,7 +18,7 @@
+ {
+     [super viewDidLoad];
+     NSLog(@"date=test12345 %@",[NSDate date]);
+-    NSLog(@"patch file testing");
++    NSLog(@"patch file testing-123");
+ 	// Do any additional setup after loading the view, typically from a nib.
+     
+     //hello
+-- 
+1.8.5.2 (Apple Git-48)
+
