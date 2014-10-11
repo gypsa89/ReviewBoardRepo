@@ -18,6 +18,7 @@
 {
     [super viewDidLoad];
     NSLog(@"date=test12345 %@",[NSDate date]);
+    NSLog(@"patch file testing");
 	// Do any additional setup after loading the view, typically from a nib.
     
     //hello
